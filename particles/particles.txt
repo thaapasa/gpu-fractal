@@ -1,0 +1,4 @@
+/opt/cudasdk/C/bin/linux/release/particles Starting...
+
+grid: 64 x 64 x 64 = 262144 cells
+particles: 16384
